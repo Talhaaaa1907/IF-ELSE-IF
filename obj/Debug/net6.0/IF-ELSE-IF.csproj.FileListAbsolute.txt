@@ -1,0 +1,15 @@
+C:\Users\talha\OneDrive\Masaüstü\IF-ELSE-IF\bin\Debug\net6.0\IF-ELSE-IF.exe
+C:\Users\talha\OneDrive\Masaüstü\IF-ELSE-IF\bin\Debug\net6.0\IF-ELSE-IF.deps.json
+C:\Users\talha\OneDrive\Masaüstü\IF-ELSE-IF\bin\Debug\net6.0\IF-ELSE-IF.runtimeconfig.json
+C:\Users\talha\OneDrive\Masaüstü\IF-ELSE-IF\bin\Debug\net6.0\IF-ELSE-IF.dll
+C:\Users\talha\OneDrive\Masaüstü\IF-ELSE-IF\bin\Debug\net6.0\ref\IF-ELSE-IF.dll
+C:\Users\talha\OneDrive\Masaüstü\IF-ELSE-IF\bin\Debug\net6.0\IF-ELSE-IF.pdb
+C:\Users\talha\OneDrive\Masaüstü\IF-ELSE-IF\obj\Debug\net6.0\IF-ELSE-IF.csproj.AssemblyReference.cache
+C:\Users\talha\OneDrive\Masaüstü\IF-ELSE-IF\obj\Debug\net6.0\IF-ELSE-IF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\OneDrive\Masaüstü\IF-ELSE-IF\obj\Debug\net6.0\IF-ELSE-IF.AssemblyInfoInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\IF-ELSE-IF\obj\Debug\net6.0\IF-ELSE-IF.AssemblyInfo.cs
+C:\Users\talha\OneDrive\Masaüstü\IF-ELSE-IF\obj\Debug\net6.0\IF-ELSE-IF.csproj.CoreCompileInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\IF-ELSE-IF\obj\Debug\net6.0\IF-ELSE-IF.dll
+C:\Users\talha\OneDrive\Masaüstü\IF-ELSE-IF\obj\Debug\net6.0\ref\IF-ELSE-IF.dll
+C:\Users\talha\OneDrive\Masaüstü\IF-ELSE-IF\obj\Debug\net6.0\IF-ELSE-IF.pdb
+C:\Users\talha\OneDrive\Masaüstü\IF-ELSE-IF\obj\Debug\net6.0\IF-ELSE-IF.genruntimeconfig.cache
